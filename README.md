@@ -1,4 +1,4 @@
-# Data Structures and Algorithms in Python
+# Algorithms in Python
 
 # Searching Algorithms
 - Linear Search

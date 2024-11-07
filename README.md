@@ -19,3 +19,9 @@
 - Breadth First Search
 - Dijkstra's
 - A*
+
+# Dynamic Programming
+
+# Greedy Algorithms
+
+# Backtracking 
